@@ -58,7 +58,7 @@
   height: 100%;
   padding: 40px 20px;
   text-align: center;
-  background: rgba(109, 150, 211, 0.356);
+  background: rgba(15, 48, 97, 0.486);
   color: #ffffff;
   border-radius: 10px;
   transition: all 0.5s ease-in-out;
@@ -124,14 +124,14 @@
   margin-top: -15px;
   font-size: 10px;
   font-weight: 600;
-  color: #b3b3b9;
+  color: #cec9c9;
 }
 
-.btn-login {
+#button-id{
   margin: 20px 0;
 }
 
-.btn {
+#button-id{
   padding: 10px 20px;
   width: 100%;
   background-color: #dfeaf7;
@@ -152,7 +152,7 @@
 }
 
 .toggle {
-  color: #b3b3b9;
+  color: #cec9c9;
   cursor: pointer;
   font-weight: 600;
   letter-spacing: 0;
